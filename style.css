@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    
 }
 .bgimage{
     background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),url("BG.jpg");
@@ -26,7 +27,7 @@
     font-family: 'montserrat', sans-serif;
 }
 .rightmenu{
-    width: 60%;
+    width: 70%;
     height: 100Px;
     float: right;
 }
